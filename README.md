@@ -48,7 +48,7 @@ There are a plethora of modules within MS Learn ranging from incredibly difficul
 
 ### AI/Machine Learning
 
-- [ ] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/) are complex topics, and are hard to wrap your head around without a lot of pre-requisite knowledge. To help dip your toes in, we've linked in a module for helping explain the basics at a high-level.
+- [X] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/) are complex topics, and are hard to wrap your head around without a lot of pre-requisite knowledge. To help dip your toes in, we've linked in a module for helping explain the basics at a high-level.
 
 ---
 
