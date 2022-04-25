@@ -17,10 +17,10 @@ HyperText Markup Language(HTML) is what the internet is fundamentally made out o
   * `<head></head>` contains the title of the page, and other metadata style info, such as related files, etc.
   * `<body></body>` contains the actual content of the page.
 * We will start by adding some HTML to the page:
-  - [ ] Create an additonal list item in the list called List Item Three
-  - [ ] Add a row to the table
-  - [ ] Create a new block element containing some text about yourself :)
-  - [ ] Create an editable text field
+  - [x] Create an additonal list item in the list called List Item Three
+  - [x] Add a row to the table
+  - [x] Create a new block element containing some text about yourself :)
+  - [x] Create an editable text field
 
 ## CSS
 Cascading Style Sheets (CSS) is how we _style_ HTML. It is how we make HTML look pretty, without the need to inline the styling on every element.
