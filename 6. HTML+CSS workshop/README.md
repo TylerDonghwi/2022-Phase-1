@@ -32,10 +32,10 @@ Cascading Style Sheets (CSS) is how we _style_ HTML. It is how we make HTML look
   * You will notice that there is a single bit of styling in this file which changes the **body** element of the html page.
   * CSS uses _selectors_ to define what elements the styling will target. This lets us target multiple different elements, and allows us to be quite specific about what we can change.
 * Let's make some styling changes:
-    - [ ] Change the background colour to purple for the document
-    - [ ] Change the text colour to white for the document
-    - [ ] Add Some Selectors
-      - [ ] Make the list have a different background colour
-      - [ ] Reference the button using an ID selector and make the button green
-      - [ ] Reference the table using a class selector and make the table background colour red
-    - [ ] Center the button to the middle of the page
+    - [x] Change the background colour to purple for the document
+    - [x] Change the text colour to white for the document
+    - [x] Add Some Selectors
+      - [x] Make the list have a different background colour
+      - [x] Reference the button using an ID selector and make the button green
+      - [x] Reference the table using a class selector and make the table background colour red
+    - [x] Center the button to the middle of the page
